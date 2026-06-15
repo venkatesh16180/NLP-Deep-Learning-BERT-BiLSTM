@@ -10,33 +10,19 @@ both applied to real SemEval shared task datasets.
 
 ---
 
-## 📁 Repository Structure
 NLP-Deep-Learning-BERT-BiLSTM/
-
 │
-
-├── Assignment 3 — BiLSTM Sequence Labeling/
-
+├── Assignment_3/
 │   ├── Assignment 3.ipynb
-
 │   └── README.md
-
 │
-
-├── Assignment 4 — BERT Fine-tuning/
-
+├── Assignment_4/
 │   ├── Pretrained_LM_Subtask_A.ipynb
-
 │   ├── Pretrained_LM_Subtask_B.ipynb
-
 │   ├── Pretrained_LM_Subtask_C.ipynb
-
 │   └── README.md
-
 │
-
 └── README.md
-
 ---
 
 ## 🧠 Projects
